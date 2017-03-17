@@ -2,7 +2,7 @@
  * Created by julia.harper on 3/10/17.
  */
 
-const myFirstKata = require("./fixTheBugs.js")
+const myFirstKata = require("./fixTheBugs.js");
 
 describe("Tests", function(){
     it ("Basic tests", function() {
