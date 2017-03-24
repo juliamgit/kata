@@ -16,4 +16,13 @@ function addArray() {
 
 
 
-
+//
+// function sum(number) {
+//     if(number === []) {
+//         return 0;
+//     } else {
+//         number.reduce(function (a, b) {
+//             return a + b;
+//         }, 0);
+//     };
+};
